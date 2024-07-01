@@ -1,5 +1,5 @@
 # About Me:
-Hi, I’m @Azad11014<br>👀 I’m interested in Development and Machine Learning...<br>🌱 I’m currently Practicing Machine Learning, Deep learning, Deployment...<br>📫 How to reach me ... https://www.facebook.com/Azad.11014?mibextid=ZbWKwL<br>... https://www.linkedin.com/in/skajad11014🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Hi, I’m @Azad11014<br>👀 I’m interested in Development and Machine Learning...<br>🌱 I’m currently Practicing Machine Learning, Deep learning, Deployment...<br>📫 How to reach me ... https://www.facebook.com/Azad.11014?mibextid=ZbWKwL<br>... https://www.linkedin.com/in/skajad11014
 
 
 ## 🌐 Socials:
