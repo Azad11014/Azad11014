@@ -1,9 +1,8 @@
 <div align="center">
 
-# Hey 👋, I'm **AZAD**
+# Hey, I'm **AZAD**
 
-### Software Engineer | AI Enthusiast | Backend Specialist
-### Building at the intersection of AI and scalable systems
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer;AI+%26+Backend+Specialist;Building+the+Future+with+Code" alt="Typing SVG" />
 
 </div>
 
@@ -16,7 +15,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```python
 class SoftwareEngineer:
@@ -49,7 +48,7 @@ I'm passionate about solving complex problems at the intersection of **AI** and 
 
 ---
 
-## 💼 Professional Journey
+## Professional Journey
 
 ```mermaid
 graph LR
@@ -75,7 +74,6 @@ graph LR
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### AI/ML & Data Science
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -124,7 +122,7 @@ graph LR
 
 ---
 
-## 🎯 What I'm Up To
+## What I'm Up To
 
 - Building **AI-powered SaaS** applications that solve real problems
 - Deep diving into **LLM architectures** and **agent-based systems**
@@ -134,7 +132,7 @@ graph LR
 
 ---
 
-## 💡 Philosophy & Approach
+## Philosophy & Approach
 
 > ### "Great software is **simple**, **scalable**, and built for **humans**"
 
@@ -154,7 +152,20 @@ I believe in writing clean, maintainable code that stands the test of time. Ever
 
 ---
 
-## 📊 GitHub Stats
+## Contribution Activity
+
+<div align="center">
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Azad11014/Azad11014/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Azad11014/Azad11014/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Azad11014/Azad11014/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+
+## GitHub Stats
 
 <div align="center">
   
@@ -167,7 +178,7 @@ I believe in writing clean, maintainable code that stands the test of time. Ever
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always excited to connect with fellow developers, discuss new ideas, or explore collaboration opportunities. Whether you want to chat about AI, backend systems, or just say hi — my inbox is open!
 
@@ -182,7 +193,7 @@ I'm always excited to connect with fellow developers, discuss new ideas, or expl
 
 ---
 
-## ☕ Support My Work
+## Support My Work
 
 If you find my projects helpful or interesting, consider buying me a coffee! Your support helps me dedicate more time to building cool stuff and contributing to open source.
 
