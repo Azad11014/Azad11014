@@ -66,7 +66,7 @@ graph LR
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -90,7 +90,6 @@ graph LR
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
@@ -151,7 +150,7 @@ graph LR
 I believe in writing clean, maintainable code that stands the test of time. Every line should serve a purpose, every system should scale gracefully, and every product should delight its users.
 
 ---
-
+---
 ## Contribution Activity
 
 <div align="center">
@@ -163,7 +162,7 @@ I believe in writing clean, maintainable code that stands the test of time. Ever
 </picture>
 
 </div>
-
+---
 
 ## GitHub Stats
 
