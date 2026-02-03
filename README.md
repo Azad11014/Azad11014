@@ -12,7 +12,6 @@
   <a href="mailto:azad1.dev0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://facebook.com/Azad.11014"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://instagram.com/azad.11014"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Azad11014&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
@@ -54,7 +53,7 @@ I'm passionate about solving complex problems at the intersection of **AI** and 
 
 ```mermaid
 graph LR
-    A[Education] -->|B.Tech| B[Software Engineering]
+    A[Education] -->|Computer Science| B[Software Engineering]
     B --> C[AI/ML Systems]
     B --> D[Backend Architecture]
     C --> E[Building Products]
@@ -62,7 +61,6 @@ graph LR
     E --> F[Making Impact]
 ```
 
-- **Education**: B.Tech in Information Technology
 - **Current Focus**: AI-powered SaaS & Scalable Backend Systems
 - **Learning**: Advanced LLM architectures, System Design at scale
 - **Goal**: Build products that solve real-world problems
@@ -156,15 +154,14 @@ I believe in writing clean, maintainable code that stands the test of time. Ever
 
 ---
 
-## 🎨 Contribution Activity
+## 📊 GitHub Stats
 
 <div align="center">
   
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Azad11014/Azad11014/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Azad11014/Azad11014/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Azad11014/Azad11014/output/github-contribution-grid-snake.svg">
-</picture>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Azad11014&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Azad11014&theme=tokyonight&hide_border=true" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azad11014&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 
 </div>
 
@@ -198,8 +195,6 @@ If you find my projects helpful or interesting, consider buying me a coffee! You
 ---
 
 <div align="center">
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=Azad11014&icon=2&color=3)
 
 **⭐ From [Azad11014](https://github.com/Azad11014) | Built with 💙 and ☕**
 
