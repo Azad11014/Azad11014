@@ -157,7 +157,6 @@ I believe in writing clean, maintainable code that stands the test of time. Ever
   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Azad11014/Azad11014/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Azad11014/Azad11014/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -167,10 +166,7 @@ I believe in writing clean, maintainable code that stands the test of time. Ever
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Azad11014&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Azad11014&theme=tokyonight&hide_border=true" />
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azad11014&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 
 </div>
 
