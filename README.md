@@ -151,7 +151,7 @@ I believe in writing clean, maintainable code that stands the test of time. Ever
 
 ---
 
-## Contribution Activity
+## 🎨 Contribution Activity
 
 <div align="center">
   
