@@ -163,15 +163,6 @@ I believe in writing clean, maintainable code that stands the test of time. Ever
 
 </div>
 
-
-## GitHub Stats
-
-<div align="center">
-  
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Azad11014&theme=tokyonight&hide_border=true" />
-
-</div>
-
 ---
 
 ## Let's Connect
