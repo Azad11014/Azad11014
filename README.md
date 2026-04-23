@@ -2,7 +2,7 @@
 
 # Hey, I'm **AZAD**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=737F93&center=true&vCenter=true&width=650&lines=Software+Engineer;I+Work+On+Backend+%26+AI,+%26+I+Scale+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=737F93&center=true&vCenter=true&width=650&lines=Software+Engineer;+%26+I+Work+On+Backend+%26+AI,+%26+I+Scale+Systems" alt="Typing SVG" />
 
 </div>
 
